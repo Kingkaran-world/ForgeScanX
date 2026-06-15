@@ -4,7 +4,7 @@
 
 ## 📌 Abstract
 
-ForgeScanX presents a state-of-the-art, end-to-end deep learning framework for automated image forgery detection and precise localization of manipulated regions. The system employs a multi-modal approach combining ResNet-18 based binary classification, U-Net semantic segmentation with enhanced forensic feature channels, and hybrid computer vision techniques for comprehensive tamper detection. Our framework achieves superior performance through advanced Error Level Analysis (ELA), noise residual computation, gradient inconsistency detection, and texture analysis, providing real-time forensic capabilities with detailed analytics and performance metrics.
+ForgeScanX presents a state-of-the-art, end-to-end deep learning framework for automated image forgery detection and precise localization of manipulated regions. The system employs a multi-modal approach combining ResNet-18 based binary classification, U-Net semantic segmentation with enhanced forensic feature channels, and hybrid computer vision techniques for comprehensive tamper detection. Our framework achieves superior performance through advanced Error Level Analysis (ELA), noise residual computation, gradient inconsistency detection, and texture analysis, providing real-time forensic capabilities with detailed analytics and performance metrices.
 
 ---
 
